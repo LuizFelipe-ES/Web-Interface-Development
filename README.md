@@ -1,2 +1,2 @@
 # Web-Interface-Development
-Practical activities and work developed during the first semester of Software Engineering, for the subject of Web Interface Developments.
+This repository contains all the practices, work, and activities throughout the beginning of learning in web development, this repository covers HTML, CSS, and JavaScript.
